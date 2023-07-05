@@ -99,14 +99,7 @@ For more information on the importance of a professional README for your reposit
 > Describe how a new developer could make use of your project.
 
 To get a local copy running,please follow these steps.
-
--npm
-```sh
 npm install npm@latest -g
-
-
-### Prerequisites
-
 In order to run this project you need:
 1) Computer system/laptop
 2) Internet Access
@@ -115,15 +108,9 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
   cd my-folder
   git clone git@github.com:Srilearns/Hello-Microverse-Project
 ```
---->
 
 ### Install
 
@@ -180,8 +167,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Sri Sudha Suryadevara**
 
 - GitHub: [@githubhandle](https://github.com/Srilearns)
@@ -204,4 +189,4 @@ I would like to thank Microverse and my learning partners.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/Srilearns/Hello-Microverse-Project/blob/Linters/MIT.md">back to top</a>)</p>
