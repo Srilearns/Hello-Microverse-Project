@@ -187,6 +187,6 @@ I would like to thank Microverse and my learning partners.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Srilearns/Hello-Microverse-Project/blob/Linters/MIT.md) licensed.
 
-<p align="right">(<a href="https://github.com/Srilearns/Hello-Microverse-Project/blob/Linters/MIT.md">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
